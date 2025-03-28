@@ -1,0 +1,63 @@
+.admin-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #fff;
+    color: #000;
+    font-family: space mono;
+  }
+  
+  .selection-panel {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .selection-panel button {
+    background-color: gray;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .selection-panel button.active {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .details-panel {
+    padding: 20px;
+    overflow-y: auto;
+  }
+  
+  .customers-list, .order-history {
+    margin-top: 20px;
+  }
+  
+  .customers-list h2, .order-history h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+  

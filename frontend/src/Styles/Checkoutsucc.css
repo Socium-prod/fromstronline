@@ -1,0 +1,95 @@
+/* Modal Overlay */
+.modal-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    animation: fadeIn 0.3s ease-in-out;
+  }
+  
+  /* Success Icon */
+  .success-icon {
+    margin-bottom: 1rem;
+  }
+  
+  /* Modal Title */
+  .modal-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Modal Message */
+  .modal-message {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Button Container */
+  .modal-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  /* Homepage Button */
+  .home-button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 0.8rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .home-button:hover {
+    background: #0056b3;
+  }
+  
+  /* Order History Button */
+  .history-button {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 0.8rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .history-button:hover {
+    background: #218838;
+  }
+  
+  /* Fade In Animation */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
