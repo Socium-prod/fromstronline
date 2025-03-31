@@ -80,7 +80,7 @@
 
     {
       id: 4,
-      location: "Syokimau Mandera Road, Kenya (Upcoming)",
+      location: "Nyali, Kenya",
       price: 700,
       contact: "+254 740 439 907",
       images: {
@@ -102,7 +102,7 @@
     },
     {
       id: 6,
-      location: "Syokimau JJ Tower, Nairbi, Kenya",
+      location: "Nyali Kenya",
       price: 650,
       contact: "+254 740 439 907",
       images: {
@@ -113,7 +113,7 @@
     },
     {
       id: 7,
-      location: "Syokimau Gromes,Nairobi, Kenya",
+      location: "Nyali, Kenya",
       price: 500,
       contact: "+254 740 439 907",
       images: {
@@ -124,7 +124,7 @@
     },
     {
       id: 8,
-      location: "Padmore Residency – Kilimani",
+      location: "Nyali Mombasa",
       price: 750,
       contact: "+254 740 439 907",
       images: {
