@@ -2,7 +2,7 @@
     {
       id: 9,
       location: "Eastleigh Moonz Tower, Kenya",
-      price: 550,
+      price: 999,
       contact: "+254 740 439 907",
       images: {
         sitting:  "/images/home1/sitting.png",
@@ -13,7 +13,7 @@
     {
       id: 1,
       location: "Westaland Regency Tower, Kenya (Upcoming)",
-      price: 2550,
+      price: 800,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/home6/sitting.png",
@@ -24,7 +24,7 @@
     {
       id: 10,
       location: "Syokimau, Kenya",
-      price: 2050,
+      price: 900,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/home1/sitting.png",
@@ -35,7 +35,7 @@
     {
       id: 11,
       location: "New Rise Garden, Syokimau",
-      price: 3000,
+      price: 1200,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/Home2/sitting.png",
@@ -46,7 +46,7 @@
     {
       id: 0,
       location: "Panaroma west Residence – Westlands (Upcoming)",
-      price: 5000,
+      price: 200,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/home1/sitting.png",
@@ -57,7 +57,7 @@
     {
       id: 2,
       location: "Orchid Resdiency – Westlands Kenya",
-      price: 4000,
+      price: 700,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/Home2/sitting.png",
@@ -68,7 +68,7 @@
     {
       id: 3,
       location: "Emerald Towers – Westlands, Kenya",
-      price: 3000,
+      price: 500,
       contact:"+254 740 439 907",
       images: {
         sitting: "/images/home3/sitting.png",
@@ -81,7 +81,7 @@
     {
       id: 4,
       location: "Syokimau Mandera Road, Kenya (Upcoming)",
-      price: 2100,
+      price: 700,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/Home4/sitting.png",
@@ -92,7 +92,7 @@
     {
       id: 5,
       location: "PinTower South C, Nairobi Kenya",
-      price: 4000,
+      price: 600,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/home5/sitting.png",
@@ -103,7 +103,7 @@
     {
       id: 6,
       location: "Syokimau JJ Tower, Nairbi, Kenya",
-      price: 1650,
+      price: 650,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/home6/sitting.png",
@@ -114,7 +114,7 @@
     {
       id: 7,
       location: "Syokimau Gromes,Nairobi, Kenya",
-      price: 1950,
+      price: 500,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/home7/sitting.png",
@@ -125,7 +125,7 @@
     {
       id: 8,
       location: "Padmore Residency – Kilimani",
-      price: 1650,
+      price: 750,
       contact: "+254 740 439 907",
       images: {
         sitting: "/images/home8/sitting.png",
