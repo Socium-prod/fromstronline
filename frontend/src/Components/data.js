@@ -23,7 +23,7 @@
     },
     {
       id: 10,
-      location: "Syokimau, Kenya",
+      location: "Nyali, Kenya",
       price: 900,
       contact: "+254 740 439 907",
       images: {
@@ -45,7 +45,7 @@
     },
     {
       id: 0,
-      location: "Panaroma west Residence – Westlands (Upcoming)",
+      location: "Panaroma west Residence – Westlands (Upcoming- In 3 Weeks)",
       price: 200,
       contact: "+254 740 439 907",
       images: {
@@ -56,7 +56,7 @@
     },
     {
       id: 2,
-      location: "Orchid Resdiency – Westlands Kenya",
+      location: "Nyali Kenya",
       price: 700,
       contact: "+254 740 439 907",
       images: {
@@ -91,7 +91,7 @@
     },
     {
       id: 5,
-      location: "PinTower South C, Nairobi Kenya",
+      location: "Nyali, Kenya",
       price: 600,
       contact: "+254 740 439 907",
       images: {
@@ -113,7 +113,7 @@
     },
     {
       id: 7,
-      location: "Nyali, Kenya",
+      location: "Eastleigh, Kenya",
       price: 500,
       contact: "+254 740 439 907",
       images: {
@@ -146,7 +146,7 @@
     },
     {
       id: 13,
-      location: "Crystal Oak Residency – Kileleshwa",
+      location: "Nyali Kenya",
       price: 500,
       contact: "+254 740 439 907",
       images: {
@@ -157,7 +157,7 @@
     },
     {
       id: 14,
-      location: "Diamond Oak Residency – Kileleshwa",
+      location: "Nyali",
       price: 800,
       contact: "+254 740 439 907",
       images: {
