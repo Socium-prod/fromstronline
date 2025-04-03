@@ -2,7 +2,7 @@
     {
       id: 9,
       location: "Eastleigh Moonz Tower, Kenya",
-      price: 999,
+      price: 100,
       contact: "+254 740 439 907",
       images: {
         sitting:  "/images/home1/sitting.png",
