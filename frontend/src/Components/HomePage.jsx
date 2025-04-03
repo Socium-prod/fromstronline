@@ -102,7 +102,6 @@ function HomePage() {
                             <div className="house-details">
                                 <h2>{house.location}</h2>
                                 <p>${house.price}/night</p>
-                                <p>{house.contact}</p>
                             </div>
                         </div>
                     ))}
