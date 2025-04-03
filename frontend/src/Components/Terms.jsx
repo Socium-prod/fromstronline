@@ -75,7 +75,6 @@ const TermsAndConditions = () => {
         <h2>9. Contact Information</h2>
         <p><strong>📍 Location:</strong> Nairbi, Kenya</p>
         <p><strong>📧 Email:</strong> luxmato@gmail.com</p>
-        <p><strong>📞 Phone:</strong> +254 740 439 907</p>
       </section>
 
       <p className="footer-note">
