@@ -23,8 +23,6 @@ function Footer() {
         <div className="footer-section">
           <h3>Contact Us</h3>
           <p>Email: luxmato@gmail.com </p>
-          <p>Phone: +254 740 439 907</p>
-          <p>Customer Service: +254 708 784 942</p>
         </div>
 
         {/* Right Section - Location */}

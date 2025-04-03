@@ -164,7 +164,6 @@ const ImageModal = ({ house, onClose, email }) => {
         <span className="close-button" onClick={onClose}>✖</span>
         <img src={house.images[imageKeys[currentIndex]]} alt="Room" />
         <h4>{house.location}</h4>
-        <h4>{house.contact}</h4>
         <div className="modal-buttons">
           {/* <PaystackPayment email={email} amount={house.price} /> */}
           <button onClick={handlePesapalPayment}> Pay </button>
